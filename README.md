@@ -1,2 +1,6 @@
 
 # Naglowek
+
+
+##Edytowane przez 
+- Piotrek
